@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning BS Computer Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can Contact with me in
-- LinkedIN (https://www.linkedin.com/in/m-ahmad-768a62262/)
+- LinkedIN (https://www.linkedin.com/in/muhammad-ahmad-768a62262/)
 - EMAIL (mahmad92001@gamil.com)
 
 <!---
