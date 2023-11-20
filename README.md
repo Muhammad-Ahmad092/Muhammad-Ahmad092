@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning BS Computer Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can Contact with me in LinkedIN (https://www.linkedin.com/in/m-ahmad-768a62262/)
+-                             OR
+-    EMAIL (mahmad92001@gamil.com)
 
 <!---
 Muhammad-Ahmad092/Muhammad-Ahmad092 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
