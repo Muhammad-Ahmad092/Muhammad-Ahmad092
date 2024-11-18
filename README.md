@@ -8,12 +8,15 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-ahmad-768a62262/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/Muhammad-Ahmad092/Muhammad-Ahmad092/blob/main/Modern-paint-splash-Linkedin-logo-PNG.png"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-ahmad-768a62262/">
+    <img width="40px" alt="LinkedIn" title="LinkedIn" src="https://github.com/Muhammad-Ahmad092/Muhammad-Ahmad092/blob/main/Linkedin-logo-on-transparent--background-PNG.png"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
- 
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server">
+    <img width="40px" src="https://github.com/Muhammad-Ahmad092/Muhammad-Ahmad092/blob/main/Discord-icon-design-illustration-on-transparent-background-PNG.png"/>
+  </a>
 </p>
+
 
 ![Muhammad-Ahmad092's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmad092&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <!--
