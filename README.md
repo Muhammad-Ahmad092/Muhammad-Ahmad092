@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-ahmad-768a62262/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-ahmad-768a62262/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/Muhammad-Ahmad092/Muhammad-Ahmad092/blob/main/Modern-paint-splash-Linkedin-logo-PNG.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
