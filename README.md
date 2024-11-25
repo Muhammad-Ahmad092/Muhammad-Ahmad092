@@ -12,7 +12,7 @@
     <img width="40px" alt="LinkedIn" title="LinkedIn" src="https://github.com/Muhammad-Ahmad092/Muhammad-Ahmad092/blob/main/Linkedin-logo-on-transparent--background-PNG.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server">
+  <a href="https://discordapp.com/users/1080907428838785094" alt="Discord" title="Dev Pro Tips Discord Server">
     <img width="40px" src="https://github.com/Muhammad-Ahmad092/Muhammad-Ahmad092/blob/main/Discord-icon-design-illustration-on-transparent-background-PNG.png"/>
   </a>
 </p>
