@@ -1,7 +1,8 @@
 <div align="center">
-   <h1 style="color: #2CDED6;">Muhammad Ahmad</h1>
-   
-   <!-- Typing animation with updated sentences -->
+   <!-- Custom Banner -->
+   <img src="https://github.com/Muhammad-Ahmad092/Muhammad-Ahmad092/blob/main/Jakob%20Steiner.png" alt="LinkedIn Poster Banner" width="100%" />
+
+   <!-- Typing animation -->
    <h3>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=2CDED6&center=true&vCenter=true&width=650&lines=AI+Automation+Engineer;LLMs+%26+VLMs+Specialist;AI+Solution+Expert;Building+Transformers+%26+AI+Powered+Apps" alt="Typing Animation">
    </h3>
